@@ -1,2 +1,9 @@
 # web-atividade-git-github
-Repositório para resolução da atividade sobre Git e GitHub da disciplina de Desenvolvimento Web da faculdade.
+
+**José Rodrigues Costa Júnior**
+
+## Tópicos Web:
+- **Git:** Intermediário.
+- **HTML:** Básico.
+- **CSS:** Básico.
+- **JavaScript:** Básico.
